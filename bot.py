@@ -8,7 +8,7 @@ import telebot
 token="токена нет"
 ID="ID нет"
        
-bot = telebot.TeleBot("1804574146:AAHZldDw8ARfyHTPGW3O8L41FkTBx6kJMkQ")
+bot = telebot.TeleBot("")
 @bot.message_handler(content_types=["text"])
 
 
